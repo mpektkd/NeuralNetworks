@@ -1,0 +1,6 @@
+1. tfidf_normal: https://drive.google.com/file/d/1MuBY7Fvg00Hjp85O5ItzDEIj--BjdvyU/view?usp=sharing
+2. tfidf_processed: https://drive.google.com/file/d/1-6InU6OZK7iqEK-s_FnS7VZyuGswEX5l/view?usp=sharing
+3. tfidf_processed_min_max:https://drive.google.com/file/d/1ZDsdQuJ8TQ7JJclpDaz-VDBmwQ6xRNL1/view?usp=sharing
+4. tfidf_processed_min_max_lem:https://drive.google.com/file/d/1v91mOeF3mroYb7uJq-CVckKDcygskH3A/view?usp=sharing
+5. tfidf_processed_min_max_stem:https://drive.google.com/file/d/1U84dLF2wlU40kJn189s3kHrqldt7iIq_/view?usp=sharing
+6. tfidf_processed_Min_max_stem:https://drive.google.com/file/d/16GvcW99oD6zetsCFWoQInEpw8MTdJYDS/view?usp=sharing
